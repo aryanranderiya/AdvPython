@@ -1,0 +1,8 @@
+Number of Reviews: 5 
+Number of Valid Reviews: 21 
+Number of Invalid Reviews: 4 
+
+Top 3 Rated products: 
+ID: P, Rating: r
+ID: P, Rating: r
+ID: P, Rating: r
