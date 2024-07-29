@@ -3,6 +3,6 @@ Number of Valid Reviews: 21
 Number of Invalid Reviews: 4 
 
 Top 3 Rated products: 
-ID: P, Rating: r
-ID: P, Rating: r
-ID: P, Rating: r
+ID: ProductID2, Rating: 3.6
+ID: ProductID5, Rating: 3.6
+ID: ProductID1, Rating: 3.0

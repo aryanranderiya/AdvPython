@@ -1,11 +1,12 @@
 import csv
+import os
 
 def top_3_products(ratings: dict) -> dict:
     try:
-        return dict(sorted(ratings.items(), key=lambda x: x[1], reverse=True)[:3])
+        return sorted(ratings.items(), key=lambda x: x[1], reverse=True)[:3]
     except Exception as e:
         print(f"Error in top_3_products: {e}")
-        return {}
+        return []
 
 def create_summary(reviews: list, top3: list, valid_review_count: int, invalid_review_count: int) -> None:
     try:
@@ -89,13 +90,17 @@ def is_valid_date(date_str) -> bool:
 
 def main():
     try:
-        reviews, valid_review_count, invalid_review_count = process_files(["product1.csv", "product2.csv", "product3.csv", "product4.csv", "product5.csv"])
+        directory = os.getcwd()
+        csv_files:list = [f for f in os.listdir(directory) if f.endswith('.csv')]
+        reviews, valid_review_count, invalid_review_count = process_files(csv_files)
         products = top_3_products(reviews)
         create_summary(reviews, products, valid_review_count, invalid_review_count)
+
         print("All Ratings: ", reviews, end="\n")
         print("Top 3 Products: ", products, end="\n")
         print("Valid Reviews: ", valid_review_count, end="\n")
         print("Invalid Reviews: ", invalid_review_count, end="\n\n")
+
     except Exception as e:
         print(f"Unexpected error in main: {e}")
 
