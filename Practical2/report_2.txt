@@ -1,0 +1,7 @@
+Report 2: Revenue Details
+Train ID, Total Revenue
+T123, $1000
+T456, $3600
+T789, $5600
+T321, $200
+T654, $0

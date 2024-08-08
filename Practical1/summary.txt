@@ -1,8 +1,8 @@
-Number of Reviews: 5 
-Number of Valid Reviews: 21 
-Number of Invalid Reviews: 4 
+Total number of Reviews: 38 
+Total number of Valid Reviews: 8 
+Total number of Invalid Reviews: 30 
 
-Top 3 Rated products: 
-ID: ProductID2, Rating: 3.6
-ID: ProductID5, Rating: 3.6
-ID: ProductID1, Rating: 3.0
+Top 3 Rated Products: 
+Product ID: ProductID2, Average Rating: 3.67
+Product ID: ProductID4, Average Rating: 3.00
+Product ID: ProductID3, Average Rating: 2.50
