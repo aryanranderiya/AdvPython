@@ -1,0 +1,182 @@
+[
+  {
+    "studentID": 1,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "course_name": "Data Science 101",
+    "enrollment_date": "2024-08-01",
+    "credits": 3,
+    "grade": "A"
+  },
+  {
+    "studentID": 2,
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "course_name": "Data Science 101",
+    "enrollment_date": "2024-09-10",
+    "credits": 4,
+    "grade": "B"
+  },
+  {
+    "studentID": 3,
+    "name": "Charlie Davis",
+    "email": "charlie.davis@example.com",
+    "course_name": "Data Science 101",
+    "enrollment_date": "2024-07-15",
+    "credits": 3,
+    "grade": "A"
+  },
+  {
+    "studentID": 4,
+    "name": "Diana Wilson",
+    "email": "diana.wilson@example.com",
+    "course_name": "Data Science 101",
+    "enrollment_date": "2024-08-22",
+    "credits": 3,
+    "grade": "B"
+  },
+  {
+    "studentID": 5,
+    "name": "Ethan Brown",
+    "email": "ethan.brown@example.com",
+    "course_name": "Web Development",
+    "enrollment_date": "2024-06-18",
+    "credits": 4,
+    "grade": "A"
+  },
+  {
+    "studentID": 6,
+    "name": "Fiona Clark",
+    "email": "fiona.clark@example.com",
+    "course_name": "Web Development",
+    "enrollment_date": "2024-05-29",
+    "credits": 4,
+    "grade": "A"
+  },
+  {
+    "studentID": 7,
+    "name": "George Martin",
+    "email": "george.martin@example.com",
+    "course_name": "Web Development",
+    "enrollment_date": "2024-04-30",
+    "credits": 3,
+    "grade": "B"
+  },
+  {
+    "studentID": 8,
+    "name": "Helen Walker",
+    "email": "helen.walker@example.com",
+    "course_name": "Web Development",
+    "enrollment_date": "2024-03-15",
+    "credits": 4,
+    "grade": "A"
+  },
+  {
+    "studentID": 9,
+    "name": "Ivy Lewis",
+    "email": "ivy.lewis@example.com",
+    "course_name": "Web Development",
+    "enrollment_date": "2024-01-10",
+    "credits": 3,
+    "grade": "C"
+  },
+  {
+    "studentID": 10,
+    "name": "James King",
+    "email": "james.king@example.com",
+    "course_name": "Web Development",
+    "enrollment_date": "2024-08-05",
+    "credits": 4,
+    "grade": "B"
+  },
+  {
+    "studentID": 11,
+    "name": "Katherine Scott",
+    "email": "katherine.scott@example.com",
+    "course_name": "Web Development",
+    "enrollment_date": "2024-06-10",
+    "credits": 3,
+    "grade": "A"
+  },
+  {
+    "studentID": 12,
+    "name": "Liam Walker",
+    "email": "liam.walker@example.com",
+    "course_name": "Web Development",
+    "enrollment_date": "2024-05-20",
+    "credits": 3,
+    "grade": "C"
+  },
+  {
+    "studentID": 13,
+    "name": "Mia Robinson",
+    "email": "mia.robinson@example.com",
+    "course_name": "Python Programming",
+    "enrollment_date": "2024-09-01",
+    "credits": 4,
+    "grade": "A"
+  },
+  {
+    "studentID": 14,
+    "name": "Nathan Harris",
+    "email": "nathan.harris@example.com",
+    "course_name": "Python Programming",
+    "enrollment_date": "2024-08-18",
+    "credits": 3,
+    "grade": "B"
+  },
+  {
+    "studentID": 15,
+    "name": "Olivia Martinez",
+    "email": "olivia.martinez@example.com",
+    "course_name": "Python Programming",
+    "enrollment_date": "2024-06-30",
+    "credits": 4,
+    "grade": "A"
+  },
+  {
+    "studentID": 16,
+    "name": "Paul Thomas",
+    "email": "paul.thomas@example.com",
+    "course_name": "Python Programming",
+    "enrollment_date": "2024-07-05",
+    "credits": 3,
+    "grade": "B"
+  },
+  {
+    "studentID": 17,
+    "name": "Quincy Carter",
+    "email": "quincy.carter@example.com",
+    "course_name": "Python Programming",
+    "enrollment_date": "2024-02-25",
+    "credits": 4,
+    "grade": "A"
+  },
+  {
+    "studentID": 18,
+    "name": "Rachel Adams",
+    "email": "rachel.adams@example.com",
+    "course_name": "Python Programming",
+    "enrollment_date": "2024-09-15",
+    "credits": 3,
+    "grade": "C"
+  },
+  {
+    "studentID": 19,
+    "name": "Samuel Lee",
+    "email": "samuel.lee@example.com",
+    "course_name": "Python Programming",
+    "enrollment_date": "2024-07-20",
+    "credits": 3,
+    "grade": "A"
+  },
+  {
+    "studentID": 20,
+    "name": "Tina Nelson",
+    "email": "tina.nelson@example.com",
+    "course_name": "Python Programming",
+    "enrollment_date": "2024-04-12",
+    "credits": 4,
+    "grade": "B"
+  }
+]
